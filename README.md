@@ -1,1 +1,1 @@
-# Organic-farming
+# OrganicFarming
